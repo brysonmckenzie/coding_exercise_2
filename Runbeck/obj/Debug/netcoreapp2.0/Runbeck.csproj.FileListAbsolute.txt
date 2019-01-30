@@ -1,0 +1,11 @@
+/Users/brysmck/Projects/Runbeck/Runbeck/obj/Debug/netcoreapp2.0/Runbeck.csprojResolveAssemblyReference.cache
+/Users/brysmck/Projects/Runbeck/Runbeck/obj/Debug/netcoreapp2.0/Runbeck.csproj.CoreCompileInputs.cache
+/Users/brysmck/Projects/Runbeck/Runbeck/obj/Debug/netcoreapp2.0/Runbeck.AssemblyInfoInputs.cache
+/Users/brysmck/Projects/Runbeck/Runbeck/obj/Debug/netcoreapp2.0/Runbeck.AssemblyInfo.cs
+/Users/brysmck/Projects/Runbeck/Runbeck/bin/Debug/netcoreapp2.0/Runbeck.deps.json
+/Users/brysmck/Projects/Runbeck/Runbeck/bin/Debug/netcoreapp2.0/Runbeck.runtimeconfig.json
+/Users/brysmck/Projects/Runbeck/Runbeck/bin/Debug/netcoreapp2.0/Runbeck.runtimeconfig.dev.json
+/Users/brysmck/Projects/Runbeck/Runbeck/bin/Debug/netcoreapp2.0/Runbeck.dll
+/Users/brysmck/Projects/Runbeck/Runbeck/bin/Debug/netcoreapp2.0/Runbeck.pdb
+/Users/brysmck/Projects/Runbeck/Runbeck/obj/Debug/netcoreapp2.0/Runbeck.dll
+/Users/brysmck/Projects/Runbeck/Runbeck/obj/Debug/netcoreapp2.0/Runbeck.pdb

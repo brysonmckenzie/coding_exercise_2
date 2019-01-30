@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{09ACEFDD-E45A-425D-B403-20718B821990}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Runbeck/Program.cs">
+    <Files>
+      <File FileName="Runbeck/Program.cs" Line="38" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Runbeck PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
